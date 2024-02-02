@@ -30,7 +30,7 @@ I'm Yogesh, a passionate backend developer with expertise in Django, React, Reac
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yogesh-shekhawat-5a8014224/)
 - Email: awesomeyogi10@gmail.com
-- Portfolio: [portfolio](www.yogeshshekhawat.top)
+- Portfolio: [yogeshshekhawat.top](www.yogeshshekhawat.top)
 
 
 
