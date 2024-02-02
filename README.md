@@ -24,7 +24,7 @@ I'm Yogesh, a passionate backend developer with expertise in Django, React, Reac
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=prs,issues,contribs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZetaReticuli844&show_icons=true&count_private=true&hide=prs,issues,contribs)
 
 ## 📫 Get in Touch
 
