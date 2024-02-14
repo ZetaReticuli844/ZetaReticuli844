@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Yogesh, a passionate backend developer with expertise in Django, React, React Native, Python, TypeScript, JavaScript, Swift, Golang, Docker, and PostgreSQL.
+I'm Yogesh, a passionate web developer with expertise in Django, React, React Native, Python, TypeScript, JavaScript, Swift, Golang, Docker, and PostgreSQL.
 
 
 ## 🛠️ Tech Stack
